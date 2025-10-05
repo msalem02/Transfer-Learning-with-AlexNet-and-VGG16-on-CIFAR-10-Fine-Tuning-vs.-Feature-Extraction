@@ -155,9 +155,8 @@ Training and validation curves illustrate:
 ## Author
 
 Mohammed Yousef Salem  
-Final-Year Computer Engineering Student — Birzeit University  
 
-- Email: msalem02@gmail.com  
+- Email: salemmohamad926@gmail.com   
 - LinkedIn: https://www.linkedin.com/in/msalem02  
 - GitHub: https://github.com/msalem02
 
